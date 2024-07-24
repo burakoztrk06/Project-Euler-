@@ -1,7 +1,6 @@
 // BRK06 
-// PROJECT EULER - 2
+// PROJECT EULER-2
 // 24/07/2024
-
 #include <stdio.h>
 #include <stdlib.h>
 
